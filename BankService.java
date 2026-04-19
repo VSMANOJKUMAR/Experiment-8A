@@ -18,7 +18,7 @@ class BankService {
 
         b.showBalance();     // before
         b.deposit(500);      // add money
-        b.withdraw(100);     // take money
+        b.withdraw(400);     // take money
         b.showBalance();     // after
     }
 }
